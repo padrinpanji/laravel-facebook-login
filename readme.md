@@ -25,3 +25,8 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ### License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+
+## Tutorial
+
+### Facebook login
+You can read the tutorial about facebook login at [Facebook Login Tutorial] (http://maxoffsky.com/code-blog/integrating-facebook-login-into-laravel-application/)
